@@ -1,0 +1,4 @@
+1. let user manually add coin when input is not enough. 
+2. DO YOU WISH TO ADD MORE COINS : input check 
+3. Clear screen function
+4. Better user interface

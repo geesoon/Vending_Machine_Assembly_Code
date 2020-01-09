@@ -1,0 +1,17 @@
+Variable 
+
+word tea
+word choco
+word coffee
+word mocha
+
+str1 BYTE "********************************",0
+str2 BYTE "1.TEA-60 : 2.CHOCO - 70 : 3.COFFEE - 100 : 4.MOCHA - 120",0
+str3 BYTE "PLEASE INPUT MONEY: ",0
+str4 BYTE "10 CENTS : ",0
+str5 BYTE "20 CENTS : ",0
+str6 BYTE "50 CENTS : ",0 
+str7 BYTE "YOUR MONEY : ",0
+str8 BYTE "PLEASE CHOOSE ITEM: ",0
+str9 BYTE "HERE IS YOUR ",0
+str10 BYTE "HERE IS YOUR CHANGE: ",0         
